@@ -1,0 +1,107 @@
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+1575624285774	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1575624285775	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1575624285775	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1575624285794	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624285806	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624285854	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing languages: An unexpected property was found in the WebExtension manifest.
+1575624285854	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing langpack_id: An unexpected property was found in the WebExtension manifest.
+1575624285855	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing sources: An unexpected property was found in the WebExtension manifest.
+1575624285877	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1575624285878	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1575624286816	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not compatible with application version.
+1575624286818	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not compatible with application version.
+1575624286826	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624286826	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1575624679120	addons.repository	WARN	Search failed when repopulating cache
+1575624680381	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624680428	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624680438	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624680449	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624680686	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624681038	addons.update-checker	WARN	onUpdateCheckComplete failed to parse update manifest: [Exception... "Update manifest is missing a required addons property."  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://gre/modules/addons/AddonUpdateChecker.jsm :: getRequiredProperty :: line 465"  data: no] Stack trace: getRequiredProperty()@resource://gre/modules/addons/AddonUpdateChecker.jsm:465 < parseJSONManifest()@resource://gre/modules/addons/AddonUpdateChecker.jsm:475 < parser()@resource://gre/modules/addons/AddonUpdateChecker.jsm:643 < onLoad()@resource://gre/modules/addons/AddonUpdateChecker.jsm:663 < UpdateParser/<()@resource://gre/modules/addons/AddonUpdateChecker.jsm:584
+1575624692169	addons.repository	WARN	Search failed when adding add-ons to cache
+1575624692498	addons.repository	WARN	Search failed when adding add-ons to cache
+1575624692814	addons.repository	WARN	Search failed when adding add-ons to cache
+1575624693148	addons.repository	WARN	Search failed when adding add-ons to cache
+1575624693485	addons.repository	WARN	Search failed when adding add-ons to cache
+1575624693811	addons.repository	WARN	Search failed when adding add-ons to cache
+console.log: new intermediate certificate added
+console.log: signatures re-verified
+1575624694564	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624694600	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+1575624800644	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624800645	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: loadFile@resource://gre/modules/services-common/blocklist-clients.js:119:30
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+loadDumpFile@resource://gre/modules/services-common/blocklist-clients.js:118:12
+syncCollection@resource://gre/modules/services-common/blocklist-clients.js:212:39
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+
+*************************
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1575624916781	addons.xpi	WARN	Add-on langpack-en-GB@firefox.mozilla.org is not correctly signed.
+1575624916784	addons.xpi	WARN	Add-on langpack-en-CA@firefox.mozilla.org is not correctly signed.
+1575624939846	addons.xpi	WARN	Exception running bootstrap method shutdown on shield-recipe-client@mozilla.org: TypeError: log is null (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/cdac/.mozilla/firefox/7af7brfd.default/features/%7B6eb12306-8d1e-450b-aa34-b7d4a3fb8b88%7D/shield-recipe-client@mozilla.org.xpi!/bootstrap.js:96:5) JS Stack trace: this.shutdown@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///home/cdac/.mozilla/firefox/7af7brfd.default/features/%7B6eb12306-8d1e-450b-aa34-b7d4a3fb8b88%7D/shield-recipe-client@bootstrap.js:96:5 < callBootstrapMethod@XPIProvider.jsm:4982:11 < observe@XPIProvider.jsm:2917:15
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+ERROR 2019-12-06 02:05:35 unity.settings UnitySettings.cpp:318 Invalid monitor index: -1. Returning index 0 monitor instead.
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
+failed to create drawable
+compiz (core) - Warn: glXCreatePixmap failed
