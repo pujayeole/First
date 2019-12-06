@@ -1,4 +1,4 @@
 class Sample{
 
-
+printl("Hello");
 }
